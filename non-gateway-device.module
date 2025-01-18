@@ -1,0 +1,5 @@
+#!name=Non Gateway Device Additional Configuration
+#!desc=Just use to add some addtional configuration
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/moooyo/surge-rules/refs/heads/main/home-domain.conf,Home
+RULE-SET,https://raw.githubusercontent.com/moooyo/surge-rules/refs/heads/main/home-ip.conf,Home,no-resolve
